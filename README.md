@@ -12,9 +12,9 @@ Now open up a **Windows PowerShell** terminal and go to the directory c:\linwin 
 
 cd c:\linwin
 
-./check_port.ps1 <address> <port>
+./port_check.ps1 <address> <port>
   
 Example:
 
-./check_port.ps1 192.168.99.1 443
+./port_check.ps1 192.168.99.1 443
 
